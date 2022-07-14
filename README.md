@@ -8,11 +8,11 @@ An Android application made for people who need practice in calculating. Using A
 
 - [x] Chinese-only Support (Done: V1.0)
 
-- [ ] Multi-language Support (Planned: V1.7)
+- [ ] Multi-language Support (Planned: V1.6 or V1.7)
 
 - [ ] Scorecard (Added in V1.3, but removed because of technical reasons in V1.4)
 
-- [x] Some Hints to show when entry (Done: V1.4)
+- [x] Check The Answer (Done: V1.4)
 
 - [x] Back to the last page (Done: V1.4)
 
@@ -20,7 +20,9 @@ An Android application made for people who need practice in calculating. Using A
 
 - [x] About Page (Done: V1.4.2, Improved in V1.5)
 
-- [ ] A new rule for Page 4: Multiplication and Division (Planned: V1.6)
+- [x] A new rule for Page 4: Multiplication and Division (Done: V1.6.01)
+
+- [ ] Page 7: Combined Formula (Planned: V1.8)
 
 Caution! There is no English Support in this version! 
 
@@ -34,16 +36,18 @@ Caution! There is no English Support in this version!
 
 - [x] 中文单语言支持（1.0）
 
-- [ ] 多语言支持（计划：1.7）
+- [ ] 多语言支持（计划：1.6或1.7）
 
 - [ ] 成绩单（在1.3时尝试加入，但因为技术原因在1.4中移除）
 
-- [x] 启动时显示对话框（1.4）
+- [x] 对答案（1.4）
 
 - [x] 返回上一页（1.4）
 
+- [x] 统一风格图标（1.5）
+
 - [x] 关于（1.4.2，在1.5加以改进）
 
-- [ ] 页面4：任意乘除法 的新算法（计划：1.6）
+- [x] 页面4：任意乘除法 的新算法（1.6.01）
 
-
+- [ ] 页面7：四则混合运算（计划：1.8）
